@@ -14,9 +14,9 @@ public class MainActivity extends AppCompatActivity {
 
     private int mStoryIndex;
 
-    TextView questionTextView;
-    Button btnTop;
-    Button btnBottom;
+    private TextView questionTextView;
+    private Button btnTop;
+    private Button btnBottom;
 
 
     @Override
